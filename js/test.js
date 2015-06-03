@@ -18,7 +18,7 @@
   }
 
   $(document).ready(function() {
-    documentReady(false, 23, 'thick', ['sauce', 'cheese', 'mushroom'])
+    documentReady(false, 2333, 'thick', ['sauce', 'cheese', 'mushroom'])
   })
 
 })()
